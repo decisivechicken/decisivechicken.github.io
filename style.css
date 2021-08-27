@@ -1,4 +1,3 @@
-/* background gradient USED WITH PERMISSION FROM ethan.is BECAUSE HE IS SO HOT AND BEAUTIFUL */
 @keyframes RGBgrad {
    0% {background-color: #400000;}
    16% {background-color: #402500;}
@@ -9,4 +8,5 @@
    100% {background-color: #400000;}
 }
 
+body {animation: RGBgrad 20s infinite;}
 marquee {color: #ffffff;}
